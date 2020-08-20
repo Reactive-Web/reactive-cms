@@ -20,7 +20,7 @@
   "author": "https://www.reactive-web.com",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "chart.js": "^2.8.0",
     "connect-mongodb-session": "^2.1.1",
     "ejs": "^2.6.1",
