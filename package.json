@@ -24,7 +24,7 @@
     "chart.js": "^2.8.0",
     "connect-mongodb-session": "^2.1.1",
     "ejs": "^2.6.1",
-    "fastify": "^2.11.0",
+    "fastify": "^2.15.1",
     "fastify-auth": "^0.7.2",
     "fastify-cookie": "^3.4.1",
     "fastify-cors": "^3.0.1",
