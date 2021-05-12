@@ -38,7 +38,7 @@
     "fs": "0.0.1-security",
     "mongoose": "^5.8.5",
     "node-datetime": "^2.1.2",
-    "nodemailer": "^6.2.1",
+    "nodemailer": "^6.4.16",
     "pm2": "^3.3.1",
     "point-of-view": "^3.1.1",
     "pump": "^3.0.0",
